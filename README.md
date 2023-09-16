@@ -22,19 +22,19 @@
 5. Send request, get output. Done!
 
 ### Automations Project Directory Info
-1. assets = some text documentations or screenshoots
-2. data =  where the downloaded data from applications are saved on
-3. utilities = the python class for Google Aplications automations
-   a. __pycache__ = python execution caches, not to be really care
-   a. base.py = the credentials, GA4 property id, dimensions and metrics, google sheets credentials
-   b. credentials.py = the Google Cloud Platfrom service account private keys
-   c. ga.py = Google Analytics 4 API and Automations
-   d. sheets.py = Google Sheets API and Automations
-4. venv = python virtual environment
-5. .gitignore = git ignore documentations for python
-6. main. py = main python file for executed
-7. README.md = Projects documentations
-8. requirements.txt = list of python libraries, package
+1. **assets** = some text documentations or screenshoots
+2. **data** =  where the downloaded data from applications are saved on
+3. **utilities** = the python class for Google Aplications automations
+   - **__pycache__** = python execution caches, not to be really care
+   - **base.py** = the credentials, GA4 property id, dimensions and metrics, google sheets credentials
+   - **credentials.py** = the Google Cloud Platfrom service account private keys
+   - **ga.py** = Google Analytics 4 API and Automations
+   - **sheets.py** = Google Sheets API and Automations
+6. **venv** = python virtual environment
+7. **.gitignore** = git ignore documentations for python
+8. **main.py** = main python file for executed
+9. **README.md** = Projects documentations
+10. **requirements.txt** = list of python libraries, package
 
 ### Managing Virtual Environment and Libraries
 1. Installing python-pipenv
