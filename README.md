@@ -65,31 +65,31 @@
 
 Features:
 1. Update Performance - User Activity
-   a. Update directly from Google Analytics 4 to suggested Google Sheets
-   b. for unifiedScreenClass(Page Title and Screen Class), there is option whether suggested page or all recorded page
-   c. can customize the file name
-   d. the file type can be .csv or .xlsx as you needs
+   - Update directly from Google Analytics 4 to suggested Google Sheets
+   - for unifiedScreenClass(Page Title and Screen Class), there is option whether suggested page or all recorded page
+   - can customize the file name
+   - the file type can be .csv or .xlsx as you needs
 
-2. Download Data from Google Analytics
-   a. Get Google Analytics 4 data for Local consumption (Tableau, Power BI, etc)
-   b. if unifiedScreenClass are mentioned as one of dimensions, will get option like (1) point b.
-   c. can customize the file name
-   d. the file type can be .csv or .xlsx as you needs
+3. Download Data from Google Analytics
+   - Get Google Analytics 4 data for Local consumption (Tableau, Power BI, etc)
+   - if unifiedScreenClass are mentioned as one of dimensions, will get option like (1) point b.
+   - can customize the file name
+   - the file type can be .csv or .xlsx as you needs
 
-3. Google Analytics - Dataframe in Terminal
-   a. Retrive Google Analytics 4 data and it can show as dataframe in terminal
-   b. b. if unifiedScreenClass are mentioned as one of dimensions, will get option like (1) point b.
+5. Google Analytics - Dataframe in Terminal
+   - Retrive Google Analytics 4 data and it can show as dataframe in terminal
+   - if unifiedScreenClass are mentioned as one of dimensions, will get option like (1) point b.
 
-4. Download Data from Google Sheets
-   a. Download entire suggested worksheet data from Performance spreadsheets
-   b. can customize the file name
-   c. the file type can be .csv or .xlsx as you needs
+7. Download Data from Google Sheets
+   - Download entire suggested worksheet data from Performance spreadsheets
+   - can customize the file name
+   - the file type can be .csv or .xlsx as you needs
 
-5. Performance Data Info
-   a. list of worksheet in Performance
-   b. last update data date
+9. Performance Data Info
+   - list of worksheet in Performance
+   - last update data date
 
-6. Exit
+11. Exit
    exit from applications
 
 ### Dimensions and Metrics Template
