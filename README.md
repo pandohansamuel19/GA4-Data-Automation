@@ -1,7 +1,5 @@
 # Google Analytics 4 Automations Data for Performance Dashboard
 
-## MAKE SURE THE ACCOUNT ALREADY CAN ACCESSED TO GOOGLE CLOUD PLATFORM AND GOOGLE DEVELOPERS
-
 ### OFFICIAL References Links:
 1. [API QUICKSTART](https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries)
 2. [Google Analytics Data API OVERVIEW](https://developers.google.com/analytics/devguides/reporting/data/v1/rest/?apix=true)
